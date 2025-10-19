@@ -78,4 +78,3 @@ The project analyzes a comprehensive sales database with 8 tables:
 - MySQL Database
 - Sample database loaded ([ClassicModels](https://www.mysqltutorial.org/mysql-sample-database.aspx))
 
-### Project Structure
